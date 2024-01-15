@@ -78,4 +78,4 @@
 
 <h2 id="실행_결과">📌 실행 결과</h2> 
 
-<img src='' width="800px">
+<img src='https://github.com/J-yun-ji/treasure-hunt-game/assets/66745172/3f879683-f149-45df-96c6-78bc62916eb4' width="500px">
